@@ -13,3 +13,5 @@ First, here is a short list of introductory resources to get you started:
 * If you already have a programming foundation, here is quick resource to lay out the syntax of Python: (https://learnxinyminutes.com/docs/python/)
 
 * Finally here is a much more extensive list of Python MOOCs: (https://www.fullstackpython.com/best-python-resources.html)
+
+Stay tuned for lectures!
