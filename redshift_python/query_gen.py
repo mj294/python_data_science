@@ -7,7 +7,7 @@ class query_gen(object):
     def __init__(self, retailer_id, month_range=3):
         ''' Base Query defines the subset of customers we analyzer '''
         self.con=psycopg2.connect(dbname='ibotta', host=os.environ['REDSHIFT_ENDPOINT'],
-        port='5439', user=os.environ['REDSHIFT_USER'], password=os.environ['REDSHIFT_PASS'])
+        port='5439', user=os.environ['LOOKER_USER'], password=os.environ['LOOKER_PASS'])
         self.retailer_id = retailer_id
         self.month_range = month_range
 

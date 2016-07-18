@@ -14,4 +14,17 @@ First, here is a short list of introductory resources to get you started:
 
 * Finally here is a much more extensive list of Python MOOCs: (https://www.fullstackpython.com/best-python-resources.html)
 
-Stay tuned for lectures!
+# Course Syllabus
+
+This syllabus will adapt to what people are most interested in.
+
+| Week | Repo |
+|---|---|
+| 1 | [Environment Basics](Environment_Basics) |
+| 2 | Python Data Types |
+| 3 | Functions |
+| 4 | Data Manipulation with Pandas |
+| 5 | Plotting |
+| 6 | Intro to OOP |
+| 7 | Predictive Modeling |
+| 8 | Cross Validation |
