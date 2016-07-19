@@ -113,3 +113,4 @@ class query_gen(object):
         return pd.read_sql_query(query, self.con)
 
 if __name__ == '__main__':
+    pass
