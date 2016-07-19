@@ -113,6 +113,3 @@ class query_gen(object):
         return pd.read_sql_query(query, self.con)
 
 if __name__ == '__main__':
-    qg = query_gen(4, month_range = 3)
-    df = qg.run_competitor_query()
-    print df.head()
