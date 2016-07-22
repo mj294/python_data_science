@@ -16,7 +16,7 @@ for key, val in dict1.iteritems():
     if val == 'green':
         print key + ' is ' + val
 
-#ex 1
+#ex function 1
 def key_in_value(input_to_function):
     """
     INPUT: dict
