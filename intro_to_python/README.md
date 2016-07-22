@@ -20,7 +20,7 @@ This syllabus will adapt to what people are most interested in.
 
 | Week | Repo |
 |---|---|
-| 1 | [Environment Basics](Environment_Basics) |
+| 1 | [Python 101](Python_101) |
 | 2 | Python Data Types |
 | 3 | Functions |
 | 4 | Data Manipulation with Pandas |
